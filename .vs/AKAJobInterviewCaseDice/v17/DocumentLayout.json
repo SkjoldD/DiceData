@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\code\\managers\\dependencyinjectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\code\\managers\\dependencyinjectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\code\\managers\\visualization\\datavisualizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\code\\managers\\visualization\\datavisualizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\code\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\code\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\code\\managers\\file read\\filereadermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\code\\managers\\file read\\filereadermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\data visualization\\placeholder.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\data visualization\\placeholder.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\code\\managers\\interfaces\\idatavisualizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\code\\managers\\interfaces\\idatavisualizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\code\\managers\\dependencyinjectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\code\\managers\\dependencyinjectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\code\\managers\\interfaces\\ifilereadermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\code\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\code\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|c:\\users\\skdyr\\desktop\\aka\\akajobinterviewcasedice\\akajobinterviewcasedice\\code\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{849FAA8A-F0B1-4830-B3A1-1D2F9606A16D}|AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj|solutionrelative:akajobinterviewcasedice\\code\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -44,26 +56,54 @@
               "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Program.cs",
               "ToolTip": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Program.cs",
               "RelativeToolTip": "AKAJobInterviewCaseDice\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T09:33:57.891Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "task.txt",
-              "DocumentMoniker": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\task.txt",
-              "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Code\\task.txt",
-              "ToolTip": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\task.txt",
-              "RelativeToolTip": "AKAJobInterviewCaseDice\\Code\\task.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-16T09:46:51.728Z"
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "placeholder.txt",
+              "DocumentMoniker": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Data visualization\\placeholder.txt",
+              "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Data visualization\\placeholder.txt",
+              "ToolTip": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Data visualization\\placeholder.txt",
+              "RelativeToolTip": "AKAJobInterviewCaseDice\\Data visualization\\placeholder.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T10:56:04.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataVisualizationManager.cs",
+              "DocumentMoniker": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\Managers\\Visualization\\DataVisualizationManager.cs",
+              "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Code\\Managers\\Visualization\\DataVisualizationManager.cs",
+              "ToolTip": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\Managers\\Visualization\\DataVisualizationManager.cs",
+              "RelativeToolTip": "AKAJobInterviewCaseDice\\Code\\Managers\\Visualization\\DataVisualizationManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:41:23.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataVisualizationManager.cs",
+              "DocumentMoniker": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\Managers\\Interfaces\\IDataVisualizationManager.cs",
+              "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Code\\Managers\\Interfaces\\IDataVisualizationManager.cs",
+              "ToolTip": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\Managers\\Interfaces\\IDataVisualizationManager.cs",
+              "RelativeToolTip": "AKAJobInterviewCaseDice\\Code\\Managers\\Interfaces\\IDataVisualizationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:40:20.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "todo.txt",
               "DocumentMoniker": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\todo.txt",
               "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Code\\todo.txt",
@@ -75,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FileReaderManager.cs",
               "DocumentMoniker": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\Managers\\File read\\FileReaderManager.cs",
               "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Code\\Managers\\File read\\FileReaderManager.cs",
@@ -83,31 +123,67 @@
               "RelativeToolTip": "AKAJobInterviewCaseDice\\Code\\Managers\\File read\\FileReaderManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:40:42.189Z"
+              "WhenOpened": "2024-12-16T09:40:42.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IFileReaderManager.cs",
               "DocumentMoniker": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\Managers\\Interfaces\\IFileReaderManager.cs",
               "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Code\\Managers\\Interfaces\\IFileReaderManager.cs",
               "ToolTip": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\Managers\\Interfaces\\IFileReaderManager.cs",
               "RelativeToolTip": "AKAJobInterviewCaseDice\\Code\\Managers\\Interfaces\\IFileReaderManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:36:06.764Z"
+              "WhenOpened": "2024-12-16T09:36:06.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "DependencyInjectionManager.cs",
               "DocumentMoniker": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\Managers\\DependencyInjectionManager.cs",
               "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Code\\Managers\\DependencyInjectionManager.cs",
               "ToolTip": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\Managers\\DependencyInjectionManager.cs",
               "RelativeToolTip": "AKAJobInterviewCaseDice\\Code\\Managers\\DependencyInjectionManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T09:34:37.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "581ce08e-4671-41aa-894f-adafe9076bd2",
+        "Display": 0,
+        "X": 200,
+        "Y": 114,
+        "Width": 2218,
+        "Height": 1144,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task.txt",
+              "DocumentMoniker": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\task.txt",
+              "RelativeDocumentMoniker": "AKAJobInterviewCaseDice\\Code\\task.txt",
+              "ToolTip": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\Code\\task.txt",
+              "RelativeToolTip": "AKAJobInterviewCaseDice\\Code\\task.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T09:46:51.728Z",
               "EditorCaption": ""
             }
           ]

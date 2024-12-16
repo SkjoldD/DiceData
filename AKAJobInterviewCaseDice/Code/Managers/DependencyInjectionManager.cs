@@ -12,16 +12,24 @@ namespace AKAJobInterviewCaseDice.Code.Managers
     {
 
         private IFileReaderManager frm;
+        private IDataVisualizationManager dvm;
+
         public DependencyInjectionManager() 
         {
             frm = new FileReaderManager();
+            dvm = new DataVisualizationManager();
         }
         public T GetDependency<T>()
         {
             if (typeof(T) == typeof(IFileReaderManager))
             {
-                return (T) frm;
+                return (T)frm;
             }
+            else if (typeof(T) == typeof(IDataVisualizationManager))
+            {
+                return (T)dvm;
+            }
+
 
 
             throw new Exception("The type: " + typeof(T).ToString() + ", was not found in the DependencyInjectionManager");

@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "P59Vdu8uX3EFIx1ExyD+O6DKelQ0+0oAM2bEhP6Li7pelhCaYEJcOO6MmEtzFPMB23IvUFuKpVihUFxQhF/hLA==",
+  "dgSpecHash": "v3yAzJ79sBNmftAB/sdW+L2W2p8ZxBUxHLobqy1U0exQSkgBfMUC5voNtj6WUnrl97zHvxh6dfhS2r0vQ1Mi7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\skdyr\\Desktop\\AKA\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice\\AKAJobInterviewCaseDice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\skdyr\\.nuget\\packages\\harfbuzzsharp\\7.3.0.3\\harfbuzzsharp.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\skdyr\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\7.3.0.3\\harfbuzzsharp.nativeassets.linux.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\skdyr\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0.3\\harfbuzzsharp.nativeassets.macos.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\skdyr\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0.3\\harfbuzzsharp.nativeassets.win32.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\skdyr\\.nuget\\packages\\scottplot\\5.0.47\\scottplot.5.0.47.nupkg.sha512",
+    "C:\\Users\\skdyr\\.nuget\\packages\\skiasharp\\2.88.9\\skiasharp.2.88.9.nupkg.sha512",
+    "C:\\Users\\skdyr\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.9\\skiasharp.harfbuzz.2.88.9.nupkg.sha512",
+    "C:\\Users\\skdyr\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\2.88.9\\skiasharp.nativeassets.linux.nodependencies.2.88.9.nupkg.sha512",
+    "C:\\Users\\skdyr\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.9\\skiasharp.nativeassets.macos.2.88.9.nupkg.sha512",
+    "C:\\Users\\skdyr\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.9\\skiasharp.nativeassets.win32.2.88.9.nupkg.sha512"
+  ],
   "logs": []
 }
