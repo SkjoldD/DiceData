@@ -1,0 +1,35 @@
+Casebeskrivelse for Data Scientist
+
+Baggrund:
+I vores organisation ønsker vi at arbejde med data på en måde, der er robust, skalerbar og forståelig. 
+For at sikre at vores fremtidige data scientist besidder disse kompetencer, beder vi dig om at gennemføre en case, hvor du fremviser både din tekniske viden og din evne til at kommunikere dine løsninger til ikke-teknikere. 
+Samtalen vil tage udgangspunkt i både kode og løsning. 
+
+Casebeskrivelse
+Du har fået til opgave at udvikle et program, der arbejder med et datasæt af terningekast. 
+Datasættet indeholder 123 kast med 2 terninger, og hvert kast repræsenterer et heltal mellem 1 og 6.
+
+Problem 1: Analyse af et enkelt datasæt
+1. Importer vedlagte CSV-fil med terningekastene.
+
+2. Visualiser følgende for datasættet:
+Spredning
+Varians
+Middelværdi
+
+3. Beskriv kort dine valg af visualiseringsteknikker og hvordan de hjælper med at forstå data.
+Problem 2: Løbende akkumulation og analyse
+
+1. Forestil dig, at filen med terningekast overskrives hver dag med nye data. Tilpas dit program, så det kan:
+Gemme de daglige terningekast som historiske data i en akkumuleret database/fil.
+Sikre, at tidligere data ikke går tabt.
+
+2. Udvid programmet til at:
+Visualisere den akkumulerede spredning, varians og middelværdi efter 2, 5, 10 og 100 dage.
+Præsentere forskelle mellem de daglige og akkumulerede statistikker for at fremhæve udviklingen over tid.
+
+Datasæt
+Vedlagt er en CSV-fil med 123 terningekast, hvor hver række repræsenterer ét terningekast og værdien for hver terning. 
+
+Leverance
+Til samtalen bedes du medbringe din kode og visualiseringer til præsentation / gennemgang. 
