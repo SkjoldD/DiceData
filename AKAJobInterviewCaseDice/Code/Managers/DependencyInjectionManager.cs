@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AKAJobInterviewCaseDice.Code.Managers.Calculation;
 using AKAJobInterviewCaseDice.Code.Managers.File_read;
 using AKAJobInterviewCaseDice.Code.Managers.Interfaces;
 
@@ -13,11 +14,14 @@ namespace AKAJobInterviewCaseDice.Code.Managers
 
         private IFileReaderManager frm;
         private IDataVisualizationManager dvm;
+        private ICalculator calc;
 
         public DependencyInjectionManager() 
         {
             frm = new FileReaderManager();
-            dvm = new DataVisualizationManager();
+            calc = new CalculatorManager();
+            dvm = new DataVisualizationManager(calc);
+
         }
         public T GetDependency<T>()
         {
@@ -28,6 +32,10 @@ namespace AKAJobInterviewCaseDice.Code.Managers
             else if (typeof(T) == typeof(IDataVisualizationManager))
             {
                 return (T)dvm;
+            }
+            else if (typeof(T) == typeof(ICalculator))
+            {
+                return (T)calc;
             }
 
 

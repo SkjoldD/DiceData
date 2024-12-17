@@ -9,8 +9,7 @@ namespace AKAJobInterviewCaseDice.Code.Managers.Interfaces
 {
     public interface IDataVisualizationManager
     {
-        void VisualizeDataSpreading(IEnumerable<DiceRoll> dataSet, string fileName);
-        void VisualizeDataVariance(IEnumerable<DiceRoll> dataSet, string fileName);
-        void VisualizeDataMedium(IEnumerable<DiceRoll> dataSet, string fileName);
+        void VisualizeDataSpreadingVarianceAverage(double[] data, string fileName);
+        void VisualizeDataRunningTotal(double[] data, string fileName);
     }
 }

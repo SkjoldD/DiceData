@@ -18,6 +18,9 @@ Varians
 Middelværdi
 
 3. Beskriv kort dine valg af visualiseringsteknikker og hvordan de hjælper med at forstå data.
+
+
+
 Problem 2: Løbende akkumulation og analyse
 
 1. Forestil dig, at filen med terningekast overskrives hver dag med nye data. Tilpas dit program, så det kan:
