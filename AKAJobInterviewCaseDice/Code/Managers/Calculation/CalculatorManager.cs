@@ -40,5 +40,28 @@ namespace AKAJobInterviewCaseDice.Code.Managers.Calculation
             double sumOfSquares = _data.Select(x => Math.Pow(x - mean, 2)).Sum(); // Summen af kvadrater
             return sumOfSquares / _data.Length;
         }
+
+        // Function to generate data for the normal distribution curve
+        public List<(double x, double y)> GenerateNormalDistributionData(double mean, double stdDev, double startX, double endX, double step)
+        {
+            var dataPoints = new List<(double x, double y)>();
+
+            // Check the parameters for debugging purposes
+            Console.WriteLine($"Generating data for x range: {startX} to {endX}, with step size: {step}");
+
+            for (double x = startX; x <= endX; x += step)
+            {
+                // Normal distribution formula
+                double exponent = -Math.Pow(x - mean, 2) / (2 * Math.Pow(stdDev, 2));
+                double y = (1 / (stdDev * Math.Sqrt(2 * Math.PI))) * Math.Exp(exponent);
+
+                // Debugging: Print values to see what happens
+                Console.WriteLine($"x: {x}, y: {y}");
+
+                dataPoints.Add((x, y * 100));
+            }
+
+            return dataPoints;
+        }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AKAJobInterviewCaseDice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dc01b39dfeb5f3746cecbf47c845f79800d1927")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff4d0345678d5a030ebda3f87cb983a331901856")]
 [assembly: System.Reflection.AssemblyProductAttribute("AKAJobInterviewCaseDice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AKAJobInterviewCaseDice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,5 +15,7 @@ namespace AKAJobInterviewCaseDice.Code.Managers.Interfaces
 
         double CalculateStandardDeviation(double[] data, double mean);
 
+        List<(double x, double y)> GenerateNormalDistributionData(double mean, double stdDev, double startX, double endX, double step);
+
     }
 }
